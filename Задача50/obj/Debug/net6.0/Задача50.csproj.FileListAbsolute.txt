@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfo.cs
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\bin\Debug\net6.0\Задача50.exe
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\bin\Debug\net6.0\Задача50.deps.json
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\bin\Debug\net6.0\Задача50.runtimeconfig.json
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\bin\Debug\net6.0\Задача50.dll
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\bin\Debug\net6.0\Задача50.pdb
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.dll
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\refint\Задача50.dll
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.pdb
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\Задача50.genruntimeconfig.cache
+C:\Users\user\Desktop\Обучение\C#\Дз7\Задача50\obj\Debug\net6.0\ref\Задача50.dll
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\bin\Debug\net6.0\Задача50.exe
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\bin\Debug\net6.0\Задача50.deps.json
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\bin\Debug\net6.0\Задача50.runtimeconfig.json
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\bin\Debug\net6.0\Задача50.dll
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\bin\Debug\net6.0\Задача50.pdb
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.csproj.AssemblyReference.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfoInputs.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.AssemblyInfo.cs
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.csproj.CoreCompileInputs.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.dll
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\refint\Задача50.dll
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.pdb
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\Задача50.genruntimeconfig.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача50\obj\Debug\net6.0\ref\Задача50.dll

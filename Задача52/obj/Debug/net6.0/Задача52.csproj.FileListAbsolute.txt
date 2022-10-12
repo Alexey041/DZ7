@@ -1,0 +1,15 @@
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.csproj.AssemblyReference.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.AssemblyInfoInputs.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.AssemblyInfo.cs
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.csproj.CoreCompileInputs.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\bin\Debug\net6.0\Задача52.exe
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\bin\Debug\net6.0\Задача52.deps.json
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\bin\Debug\net6.0\Задача52.runtimeconfig.json
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\bin\Debug\net6.0\Задача52.dll
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\bin\Debug\net6.0\Задача52.pdb
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.dll
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\refint\Задача52.dll
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.pdb
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\Задача52.genruntimeconfig.cache
+C:\Users\Bazz\Desktop\обучение\C# Семинары\Дз7\Задача52\obj\Debug\net6.0\ref\Задача52.dll
